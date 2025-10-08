@@ -3,9 +3,8 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Cdasilver29)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/your-handle)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/calvine-dasilver-047849188/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](calvinedasilver96@gmail.com)
 [![](https://visitcount.itsvg.in/api?id=Cdasilver29&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 💫 About Me
@@ -15,8 +14,6 @@
 </div>
 
 - 🔬 **Data Scientist** | **Software Developer** passionate about leveraging data and technology to solve real-world problems
-- 🎯 **Currently working on:** [Your Current Project - ML/Data Project]
-- 🚀 **Recent Project:** [Notable Data Science or Development Project]
 - 💼 **Expertise:** Machine Learning, Deep Learning, Data Analysis, Full-Stack Development
 - 📊 **Specialization:** Predictive Modeling, NLP, Computer Vision, Big Data Analytics
 - 🌱 **Currently learning:** Advanced ML techniques, Cloud Architecture, MLOps
@@ -168,12 +165,6 @@
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Add your blog posts here or remove this section]
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 💡 Fun Facts
 
