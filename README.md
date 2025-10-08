@@ -134,7 +134,7 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Cdasilver29&repo=project-name-1&theme=tokyonight)](https://github.com/Cdasilver29/Diabetes-Health-Indicators-Data-Analysis.git)
+[![Project 1](https://github.com/Cdasilver29/Diabetes-Health-Indicators-Data-Analysis.git)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Cdasilver29&repo=project-name-2&theme=tokyonight)](https://github.com/Cdasilver29/project-name-2)
 [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=Cdasilver29&repo=project-name-3&theme=tokyonight)](https://github.com/Cdasilver29/project-name-3)
 [![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=Cdasilver29&repo=project-name-4&theme=tokyonight)](https://github.com/Cdasilver29/project-name-4)
