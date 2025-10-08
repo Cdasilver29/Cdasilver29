@@ -106,16 +106,17 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cdasilver29&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+
+| 💻 Most Used Languages | 📈 GitHub Stats |
+|:---:|:---:|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cdasilver29&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cdasilver29&theme=tokyonight" alt="Stats" /> |
+
+| 🔥 Productive Time | 📊 Contribution Graph |
+|:---:|:---:|
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cdasilver29&theme=tokyonight&utcOffset=3" alt="Productive Time" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cdasilver29&theme=tokyonight" alt="Repos per Language" /> |
 
 ### 📈 Contribution Overview
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cdasilver29&theme=tokyonight" alt="Contribution Graph" />
-
-### 🔥 Stats Overview
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cdasilver29&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cdasilver29&theme=tokyonight&utcOffset=3" />
 
 </div>
 
