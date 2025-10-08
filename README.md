@@ -115,9 +115,6 @@
 |:---:|:---:|
 | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cdasilver29&theme=tokyonight&utcOffset=3" alt="Productive Time" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cdasilver29&theme=tokyonight" alt="Repos per Language" /> |
 
-### 📈 Contribution Overview
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cdasilver29&theme=tokyonight" alt="Contribution Graph" />
-
 </div>
 
 ## 🏆 GitHub Trophies
