@@ -128,18 +128,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Cdasilver29&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github.com/Cdasilver29/Diabetes-Health-Indicators-Data-Analysis.git)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Cdasilver29&repo=project-name-2&theme=tokyonight)](https://github.com/Cdasilver29/project-name-2)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=Cdasilver29&repo=project-name-3&theme=tokyonight)](https://github.com/Cdasilver29/project-name-3)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=Cdasilver29&repo=project-name-4&theme=tokyonight)](https://github.com/Cdasilver29/project-name-4)
-
-</div>
 
 ---
 
