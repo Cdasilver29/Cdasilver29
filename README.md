@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=840&color=00D9FF&background=0D1117FF&vCenter=true&width=1000&height=83&lines=Hello%2C+I'm+[Your+Name];Data+Scientist+%26+Software+Developer;Transforming+Data+into+Actionable+Insights;Building+Scalable+Solutions+with+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=840&color=00D9FF&background=0D1117FF&vCenter=true&width=1000&height=83&lines=Hello%2C+I'm+[Calvine+Dasilver+Dev];Data+Scientist+%26+Software+Developer;Transforming+Data+into+Actionable+Insights;Building+Scalable+Solutions+with+Code)](https://git.io/typing-svg)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@
 - 🌱 **Currently learning:** Advanced ML techniques, Cloud Architecture, MLOps
 - 🤝 **Open to:** Collaborating on innovative data science projects and open-source initiatives
 - 💡 **Passionate about:** Building AI-powered solutions and contributing to the data science community
-- 📫 **Reach me:** your.email@example.com
+- 📫 **Reach me:** calvinedasilver96@gmail.com
 
 ---
 
@@ -186,8 +186,6 @@
 
 *"Data is the new oil, but insights are the refined fuel that powers innovation."*
 
-[![GitHub followers](https://img.shields.io/github/followers/Cdasilver29?label=Follow&style=social)](https://github.com/Cdasilver29)
-![Profile Views](https://komarev.com/ghpvc/?username=Cdasilver29&color=brightgreen)
 
 </div>
 
