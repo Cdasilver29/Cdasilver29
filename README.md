@@ -107,25 +107,17 @@
 
 <div align="center">
   
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Cdasilver29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
 ### 💻 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cdasilver29&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 
-</div>
+### 📈 Contribution Overview
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cdasilver29&theme=tokyonight" alt="Contribution Graph" />
 
-### 🔥 Contribution Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cdasilver29&theme=tokyonight" alt="GitHub Streak" />
-</div>
+### 🔥 Stats Overview
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cdasilver29&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cdasilver29&theme=tokyonight&utcOffset=3" />
 
-### 📈 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cdasilver29&theme=github-compact" alt="Contribution Graph" />
 </div>
-
----
 
 ## 🏆 GitHub Trophies
 
